@@ -1,7 +1,7 @@
 ###################   Tareas  ########################
 
-- Leer diapositivas Tema 1  90min
-- Proyecto Python (u otro o pseudocódigo) asistencia 
+* 1h 30m - Leer diapositivas Tema 1  90min
+* 2h - Proyecto Python (u otro o pseudocódigo) asistencia 
   - Investigar librerias a utilizar 15min
   - Leer el fichero (y extraer información)  15min
   - Ordenar los alumnos por apellido  5min
@@ -10,7 +10,7 @@
   - Encabezado  5min
   - Crear fichero de destino  15min
   - Pasarlo a .pdf  15min
-- Aprender Git por consola  (Ya tengo conocimientos de git)
+* 0h - Aprender Git por consola  (Ya tengo conocimientos de git)
   - Instalarlo  
   - Sacarse cuenta de Github  
   - Crear repositorios  
