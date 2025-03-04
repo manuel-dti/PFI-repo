@@ -1,0 +1,33 @@
+###################   Tareas  ########################
+
+Leer dispositivas Tema 1
+Proyecto Python (u otro o pseudocodigo) asistencia
+	leer el fichero (y extraer información)
+	Ordenar los alumnos por apellido
+	Bloques de 8 en 8
+	Poner los bloques a 2 columnas
+	Encabezado
+	Crear fichero de destino
+	Pasarlo a .pdf
+
+	/* he tardado un total de 3 horas para realizar la tarea,
+	36 minutos en la lectura de diapositivas comprendimiento del codigo 
+	etc.. y 2 horas y media en puesta en marcha teniendo en cuentas errores obtenidos
+	en ultimos momentos ya que la programacion no es mi fuerte*/
+
+
+Aprender Git por consola
+	Instalarlo
+	Sacarse cuenta de Github
+	Crear repositorios
+	Clonarlos
+	Hacer commits
+	Hacer push
+	Hacer pull
+	
+	/*Me falta comprension de total de lo que es git y github, ya que tambien
+	uso la terminal de linux me seria muy de ayuda, pero tendre que realizar mas proyectos
+	y tocar mas ese tema para la obtencion de recursos y conocimientos
+	
+--> ¡¡Incurrir las tareas!!
+

@@ -1,0 +1,25 @@
+###################   Tareas  ########################
+
+Leer dispositivas Tema 1
+	*\He tardado en leerme las diapositivas 30 minutos, pero en entenderlas perfectamente y saber sobre de que hablan, tarde sobre 1 hora o hora y media\*
+Proyecto Python (u otro o pseudocodigo) asistencia
+	leer el fichero (y extraer información)
+	Ordenar los alumnos por apellido
+	Bloques de 8 en 8
+	Poner los bloques a 2 columnas
+	Encabezado
+	Crear fichero de destino
+	Pasarlo a .pdf
+	*\he estado buscando informacion de como hacer dicho proyecto y no he llegado a la conclusion de como hacerlo llegando a entenderlo, sin pedirselo directamente a una IA\*
+Aprender Git por consola
+	Instalarlo
+	Sacarse cuenta de Github
+	Crear repositorios
+	Clonarlos
+	Hacer commits
+	Hacer push
+	Hacer pull
+	*\He tardado en aprender a utilizar github, mas o menos media hora o una hora\*
+	
+--> ¡¡Incurrir las tareas!!
+*\El proyecto de python u otro lenguaje lo hare con ayuda de una IA o ayuda de un compañero, debido a que no llego a una solucion optima del ejercicio, por mi falta de conocimiento sobre como hacerlo\*
